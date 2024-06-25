@@ -1,9 +1,9 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "C:\\Users\\AISHU\\OneDrive\\Desktop\\avax2\\SCM-Starter\\contracts\\Assessment.sol": {
-      "lastModificationDate": 1692176230323,
-      "contentHash": "60652993f66a25dcf9ce31c65033a516",
+    "C:\\Users\\premg\\OneDrive\\Desktop\\ETH-AVAX-Module2\\contracts\\Assessment.sol": {
+      "lastModificationDate": 1719245724105,
+      "contentHash": "dba06cf84afdc6c41acd4b6ca8898251",
       "sourceName": "contracts/Assessment.sol",
       "solcConfig": {
         "version": "0.8.17",
